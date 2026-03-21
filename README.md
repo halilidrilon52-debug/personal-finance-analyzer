@@ -20,6 +20,6 @@ A professional, interactive web application built with **Python** and **Streamli
 ## 📦 How to Run
 1. Clone the repository:
 ```bash
-git clone [https://github.com/halilidrilon52-debug/personal-finance-analyzer.git](https://github.com/halilidrilon52-debug/personal-finance-analyzer.git)
+git clone https://github.com/drilon-halili/personal-finance-analyzer.git && cd personal-finance-analyzer
 
 
